@@ -42,21 +42,20 @@ Whenever any product is added to the cart, the Cart page display no. of products
 
 ## Login : 
 
-![Screenshot (991)](https://drive.google.com/file/d/1_KHVcbweAHDioDfio2rypZxYfrn4toYd/view?usp=sharing)
+![Screenshot (15)](https://user-images.githubusercontent.com/95957280/175780275-0c9a8cff-8cf7-47a3-969f-5dcc23e9d51b.png)
 
 ## Sign-up :
 
-![Screenshot (992)](https://drive.google.com/file/d/1_KHVcbweAHDioDfio2rypZxYfrn4toYd/view?usp=sharing)
+![Screenshot (16)](https://user-images.githubusercontent.com/95957280/175780303-c1932350-3708-4e1d-a28e-4fc7e6197edf.png)
 
 ## Payment Page :
 
-![Screenshot (993)](https://drive.google.com/file/d/1gf8QOoMznONCJRu8XjBCV473JsMpY6rq/view?usp=sharing)
+![Screenshot (17)](https://user-images.githubusercontent.com/95957280/175780434-ff2e51f6-cac2-43ec-a6b6-fd837370f778.png)
 ![Screenshot (994)](https://drive.google.com/file/d/162MT6ytDGdZi-j8MQGbbz4b66iLySYMw/view?usp=sharing) 
 
 ## blog of website Page :
 
-![Screenshot (995)](https://drive.google.com/file/d/1XIfrAX6UdKloU5jJ7V60G2MvHT1IV9CW/view?usp=sharing)
-![Screenshot (996)](https://drive.google.com/file/d/183IPFZtr9WNzOU24CewbZBpUmIaopgPf/view?usp=sharing) 
+![Screenshot (19)](https://user-images.githubusercontent.com/95957280/175780499-556c556b-e358-4e79-a0c8-656747b8e0d6.png)
 
 ## blog of project :
 
