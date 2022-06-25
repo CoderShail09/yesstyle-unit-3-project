@@ -17,7 +17,7 @@ The tech Stack we used for creating this website are :-
 
 The landing page of yesstyle.com displays the navigation bar which contains different section of shopping  like men's, women's, kid's and many more with full Security & helps and Login / Sign-up part.
 
-![Screenshot (986)](https://drive.google.com/file/d/1CdBM5Dd2R9y1KdKKEk-GtpqmA0sLS4ku/view?usp=sharing)
+![Screenshot (6)](https://user-images.githubusercontent.com/95957280/175777925-a191e83c-4b04-41d9-9e00-1c59d5639c88.png)
 
 
 ## Find store Page :
