@@ -25,20 +25,20 @@ The landing page of yesstyle.com displays the navigation bar which contains diff
 1. In this section user can find store according to their location and also gift's someone.
 2. Order branded products view their rating records etc.
 
-![Screenshot (987)](https://drive.google.com/file/d/1xV6asSFYVTYOUr4dFOX6aWW6FtNGCOBy/view?usp=sharing)
+![Screenshot (7)](https://user-images.githubusercontent.com/95957280/175778456-5eed16ad-3016-4237-b293-5253f8fe36e2.png)
 
 ## mens Page :
 
 There are so much categories user can find their products according to their need or directly go to the popular products here are more options any delivery regarding query and chat with a adviser.
 
-![Screenshot (988)](https://drive.google.com/file/d/1-d0dmpH0pQ3WNQYkF_-UNnhqfmI-eDYY/view?usp=sharing)
+![Screenshot (9)](https://user-images.githubusercontent.com/95957280/175778642-6a0933e8-ddcc-4a5d-a7da-5f11c49d96b3.png)
 
 ## Add to Cart Page :
 
 Whenever any product is added to the cart, the Cart page display no. of products added to the cart and the container containing the product you added to the cart . From where you can change the quantity of a particular product.And you can place order by clicking on checkout button.
 
-![Screenshot (989)](https://drive.google.com/file/d/1cif3AJZANH3MVQ8uiiDI6vZ9UlL8WsOw/view?usp=sharing)
-![Screenshot (990)](https://drive.google.com/file/d/10mxLKsIvIN82VRlyEhXQlR3qbPaXnMi9/view?usp=sharing)
+![Screenshot (11)](https://user-images.githubusercontent.com/95957280/175778783-97adb51c-b321-47b4-ac64-324a55308ea7.png)
+![Screenshot (14)](https://user-images.githubusercontent.com/95957280/175778883-806d96c5-1fb2-47b5-944a-0c3ea4d29ea9.png)
 
 ## Login : 
 
